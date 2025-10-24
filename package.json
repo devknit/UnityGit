@@ -1,0 +1,11 @@
+{
+  "name": "com.devknit.git",
+  "displayName": "Knit Git",
+  "version": "0.9.0",
+  "unity": "2023.2",
+  "author": {
+    "name": "Knit",
+    "email": "devknit.yua@gmail.com",
+    "url": "https://github.com/devknit"
+  }
+}
